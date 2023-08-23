@@ -37,6 +37,7 @@ The program is a result of the collaborative effort of Team ProjektVM members.
 For any inquiries or feedback, feel free to contact the team lead:
 
 Team Lead: Shivash Shetty
+
 Email: shivashshetty@outlook.com
 
 # Acknowledgments
