@@ -24,11 +24,11 @@ The Vending Machine program is designed to simulate a simple vending machine int
 # Color Codes
 The program uses ANSI escape codes for colorful terminal output. Here are the color codes used:
 
-Red: Error messages and notifications.
-Green: Success messages and payment related information.
-Yellow: Prompts for user actions.
-Blue: Item names and headers.
-Cyan: Stock quantities.
+1. Red: Error messages and notifications.
+2. Green: Success messages and payment-related information.
+3. Yellow: Prompts for user actions.
+4. Blue: Item names and headers.
+5. Cyan: Stock quantities.
 
 # Contributors
 The program is a result of the collaborative effort of Team ProjektVM members.
